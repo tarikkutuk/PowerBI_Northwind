@@ -102,9 +102,6 @@ FullAdress: Tedarikçilerin tam adresini veren bir sütun
 Total Profit: Oluşturulan Profit sütunundaki değerlerin toplamı
 
 
-
-
-
-Önerilere açığım. Eğer "bu göstergede şu olsa daha güzel olurdu veya şunun göstergesini de eklemelisin" gibi önerileriniz olrsa lütfen iletişime geçin.
+## İletişim için:
 
 Linkedin.com/in/tarık-kütük
