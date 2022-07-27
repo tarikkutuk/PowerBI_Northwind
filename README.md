@@ -1,5 +1,6 @@
 # PowerBI_Northwind
 Northwind veri tabanını kullanarak oluşturduğum bazı gösterge örnekleridir. "Şu da olsa iyi olabilirdi" dediğiniz göstergeler için iletişime geçerseniz sevinirim.
+
 Bilindiği üzere Northwind veri tabanının web'de bir çok versiyonu bulunmaktadır. Benim kullandığım parçası 04.08.1994 ile 05.06.1996 tarihleri arasındaki parçadır.
 
 
