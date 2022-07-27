@@ -66,7 +66,7 @@ tam isimleri verilmişitir. Bu filtreden istenilen çalışan seçilerek, çalı
 alttaki kartta bu çalışana ait bilgiler görülmektedir.
 En alttaki kart ise bu çalışanın şirkete kazandırıdığı ciro verilmiştir.
 
-Oluşturulan Sütunlar: 
+**Oluşturulan Sütunlar:** 
 
 Employees tablosu;
 
@@ -97,7 +97,7 @@ Suppliers tablosu;
 FullAdress: Tedarikçilerin tam adresini veren bir sütun
 
 
-Oluşturulan Değerler;
+**Oluşturulan Değerler;**
 
 Total Profit: Oluşturulan Profit sütunundaki değerlerin toplamı
 
