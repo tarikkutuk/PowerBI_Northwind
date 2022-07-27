@@ -67,6 +67,45 @@ tam isimleri verilmişitir. Bu filtreden istenilen çalışan seçilerek, çalı
 alttaki kartta bu çalışana ait bilgiler görülmektedir.
 En alttaki kart ise bu çalışanın şirkete kazandırıdığı ciro verilmiştir.
 
+Oluşturulan Sütunlar: 
+
+Employees tablosu;
+
+FullNamesofEmployees: Çalışanların ünvanı ile birlikte tam ismini veren bir sütun
+
+Invoices tablosu;
+
+Order-Shipped Differance: Sipariş tarihi ile teslim tarihi arasındaki fark (gün)
+
+Order Details tablosu; 
+
+Profit: Siparişten elde edilen ciro;
+
+Orders tablosu;
+
+ActiveOrder: Sipariş verilmiş fakat henüz kargoya teslim edilmemiş siparişleri belirten bir sütun
+
+RequiredOrder: Kargoya teslim edilen fakat henüz müşteriye ulaşmamış ürünleri belirten bir sütun
+
+Product tablosu;
+
+OutStockOrder: Sipariş edilen ürün miktarının, stokta olan ürün miktarından az olduğu durumları belirten bir sütun
+
+ProductInOrder: Siparişte olan ürünleri belirten bir sütun
+
+Suppliers tablosu;
+
+FullAdress: Tedarikçilerin tam adresini veren bir sütun
+
+
+Oluşturulan Değerler;
+
+Total Profit: Oluşturulan Profit sütunundaki değerlerin toplamı
+
+
+
+
+
 Önerilere açığım. Eğer "bu göstergede şu olsa daha güzel olurdu veya şunun göstergesini de eklemelisin" gibi önerileriniz olrsa lütfen iletişime geçin.
 
 Linkedin.com/in/tarık-kütük
